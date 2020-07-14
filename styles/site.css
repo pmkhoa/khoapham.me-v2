@@ -1,0 +1,9 @@
+.blog-list p {
+  padding: 10px 0px 10px 0px;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.logo a {
+    text-decoration: none;
+    background: none;
+}
