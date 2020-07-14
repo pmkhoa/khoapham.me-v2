@@ -4,7 +4,7 @@ date: "2013-05-17T00:06:51-08:00"
 draft: false
 excerpt: 'A favorite poem'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: ''
 ---
 
 When it comes to my favorite poem, "If - Rudyard Kipling" is definitely the one.
