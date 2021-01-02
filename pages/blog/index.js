@@ -10,6 +10,7 @@ import Link from 'next/link'
 import { CMS_NAME } from '../../lib/constants'
 
 export default function Index({ allPosts }) {
+
   return (
     <Layout>
       <Head>
