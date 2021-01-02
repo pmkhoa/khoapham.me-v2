@@ -23,7 +23,7 @@ export default function Post({ post, morePosts, preview }) {
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article>
+            <section>
               <Head>
                 <title>{post.title} | Khoa Pham</title>
                 {post.ogImage.url && <meta property="og:image" content={post.ogImage.url} />}
@@ -34,7 +34,7 @@ export default function Post({ post, morePosts, preview }) {
                 date={post.date}
               />
               <PostBody content={post.content} />
-            </article>
+            </section>
           </>
         )}
       </Container>
